@@ -11,6 +11,7 @@ namespace HelloWorld
         {
 		    Console.WriteLine("Hello, World");
             Console.WriteLine("tut");
+            Console.WriteLine("Ya ponial");
 		    Console.ReadLine();
         }
     }
